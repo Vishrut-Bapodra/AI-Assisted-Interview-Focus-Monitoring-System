@@ -46,7 +46,7 @@ This project aims to provide an objective, automated focus assessment mechanism 
 
 - Python
 - OpenCV
-- MediaPipe Face Mesh
+- MediaPipe
 - NumPy
 - Math & Time (standard library)
 
